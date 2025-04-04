@@ -1,13 +1,10 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Suraj Iyer 👋
 
 ## About Me
-- 🔭 I'm currently working on [Current Project/Job]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Interesting Projects]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🎓 MS in Computer Science student at Indiana University Bloomington (Expected May 2026)
+- 💻 Former Research Analyst at Merkle
+- 🌱 Passionate about Machine Learning, Software Engineering, and Full Stack Development
+- 📫 How to reach me: suraiyer@iu.edu
 
 ## 🚀 Languages:
 <p align="left">
@@ -16,53 +13,60 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-## 🛠️ Tools:
+## 🛠️ Tools & Frameworks:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe" width="40" height="40"/>
 </p>
 
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+## 📚 Education
+- **MS in Computer Science** - Indiana University Bloomington (Aug 2024 - May 2026 Expected)
+- **BE in Information Technology** - University of Mumbai - SIES Graduate School of Technology (Aug 2018 - May 2022)
 
-## Featured Projects
-### [Project 1]
-[Brief description of the project]
-[Technologies used]
-[Link to the project]
+## 💼 Experience
+### Research Analyst - Merkle (Jun 2022 - Jul 2024)
+- Built dynamic survey workflows using Qualtrics and Alchemer with JavaScript and API integrations
+- Developed scripts for data cleaning and transformation using Python and SQL
+- Managed end-to-end projects from data acquisition to insight delivery
 
-### [Project 2]
-[Brief description of the project]
-[Technologies used]
-[Link to the project]
+### Full Stack Developer Intern - Careeristic (May 2021 - Dec 2021)
+- Developed career guidance platform with video podcasts and blogs
+- Implemented MongoDB database models and Node.js APIs
+- Worked on front-end interface using Next.js, achieving 40% improvement in page load times
 
-### [Project 3]
-[Brief description of the project]
-[Technologies used]
-[Link to the project]
+## 🔧 Projects
+### Recipe Generator using Machine Learning
+- Developed a system to generate recipes from input ingredients
+- Preprocessed 20,000+ recipes and trained deep learning models with LSTMs and RNNs
+- Created web application using ReactJS and Flask
 
-## Professional Experience
-- **[Company Name]** - [Position] (Date - Date)
-  - [Brief description of your responsibilities and achievements]
+### Slack Clone
+- Built fully functional Slack clone with real-time messaging
+- Implemented user authentication and channel management
+- Used ReactJS for frontend and Firebase for backend services
 
-- **[Company Name]** - [Position] (Date - Date)
-  - [Brief description of your responsibilities and achievements]
+### E-commerce Website for Small Business
+- Developed responsive website for home baking business
+- Created modules for product details and purchasing
+- Built with HTML, CSS, JavaScript, PHP, and MySQL
 
-## Education
-- **[Degree]** in [Field of Study] from [Institution] (Year)
+## 🏆 Achievements
+- Received award for expertise beyond years of experience at Merkle (2023)
+- "Creative Excellence Award" for academic year 2021-2022
+- "Certificate of Merit" for highest marks in Mathematics during freshman year
+- Served as media secretary of student council, organizing technical workshops and events
 
 ## Connect With Me:
 <p align="left">
-  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://leetcode.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
-  <!-- Add more social icons as needed -->
+  <a href="https://linkedin.com/in/suraj-iyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
 ---
