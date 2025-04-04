@@ -6,15 +6,7 @@
 - 🌱 Passionate about Machine Learning, Software Engineering, and Full Stack Development
 - 📫 How to reach me: suraiyer@iu.edu
 
-Hello, I'm Suraj Iyer 👋
-About Me
-
-🎓 MS in Computer Science student at Indiana University Bloomington (Expected May 2026)
-💻 Former Research Analyst at Merkle
-🌱 Passionate about Machine Learning, Software Engineering, and Full Stack Development
-📫 How to reach me: suraiyer@iu.edu | 812-822-7872
-
-Skills
+## Skills
 Programming Languages:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
