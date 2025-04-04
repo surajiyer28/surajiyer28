@@ -35,5 +35,4 @@
   <a href="https://leetcode.com/surajiyer28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
----
-*Feel free to reach out if you want to discuss collaboration opportunities or just chat!*
+
