@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 MS in Computer Science student at Indiana University Bloomington (Expected May 2026)
 - 💻 Former Research Analyst at Merkle
-- 🌱 Passionate about Machine Learning, Software Engineering, and Full Stack Development
+- 🌱 Full Stack Development, Deep Learning, Machine Learning, Software Development
 - 📫 How to reach me: suraiyer@iu.edu
 
 ## Skills
