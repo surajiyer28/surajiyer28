@@ -1,7 +1,7 @@
 # Hello, I'm Suraj Iyer 👋
 
 ## About Me
-- 🎓 MS in Computer Science student at Indiana University Bloomington (Expected May 2026)
+- 🎓 Grad Computer Science student at Indiana University Bloomington (Expected May 2026)
 - 💻 Former Research Analyst at Merkle
 - 🌱 Full Stack Development, Deep Learning, Machine Learning, Software Development
 - 📫 How to reach me: suraiyer@iu.edu
