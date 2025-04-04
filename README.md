@@ -1,4 +1,4 @@
-# Hello, I'm Suraj Iyer 👋
+# Hello, I'm Suraj 👋
 
 ## About Me
 - 🎓 CS Grad student at Indiana University Bloomington (Expected May 2026)
