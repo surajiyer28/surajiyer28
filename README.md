@@ -1,5 +1,7 @@
 # Hello, I'm Suraj 👋
 
+###⚠️ Heads-up: > 🚧 Few repos may be new on the block, but the code’s been around — just moved in from my offline vault.
+
 ## About Me
 - 🎓 CS Grad student at Indiana University Bloomington (Expected May 2026)
 - 💻 Former Research Analyst at Merkle
